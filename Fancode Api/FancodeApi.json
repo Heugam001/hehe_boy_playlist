@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "03:31:43 AM 11-10-2025",
+    "last update time": "04:04:17 AM 11-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Toronto Sixers Women vs Vancouver Thunderbirds Women (Canada Women Super 60, 2025)",
+            "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Thunderbirds Women",
+            "team_1": "Vancouver Thunderbirds Women",
+            "team_2": "Toronto Sixers Women",
             "status": "LIVE",
             "event_name": "Canada Women Super 60, 2025",
-            "match_name": "Toronto Sixers Women vs Vancouver Thunderbirds Women",
+            "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
             "match_id": 137460,
             "startTime": "03:30:00 AM 11-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/iZ-FYemHRhacmlZvoUf4Zg/master.m3u8",
@@ -246,6 +246,18 @@
             "startTime": "05:00:00 AM 12-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (National Cricket T10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket T10 League, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137308,
+            "startTime": "06:30:00 AM 12-10-2025"
+        },
+        {
             "event_category": "Baseball",
             "title": "Detroit Tigers vs Seattle Mariners (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/137578_CASACARDS_APP.png",
@@ -280,18 +292,6 @@
             "match_name": "Day 3",
             "match_id": 137313,
             "startTime": "08:30:00 AM 11-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (National Cricket T10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "National Cricket T10 League, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 137308,
-            "startTime": "06:30:00 AM 12-10-2025"
         },
         {
             "event_category": "Golf",
