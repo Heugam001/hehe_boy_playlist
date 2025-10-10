@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "03:00:26 AM 11-10-2025",
+    "last update time": "03:31:43 AM 11-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Toronto Sixers Women vs Vancouver Thunderbirds Women (Canada Women Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png",
+            "team_1": "Toronto Sixers Women",
+            "team_2": "Vancouver Thunderbirds Women",
+            "status": "LIVE",
+            "event_name": "Canada Women Super 60, 2025",
+            "match_name": "Toronto Sixers Women vs Vancouver Thunderbirds Women",
+            "match_id": 137460,
+            "startTime": "03:30:00 AM 11-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/iZ-FYemHRhacmlZvoUf4Zg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137460_english_hls_f8ef6b436992874ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
@@ -62,18 +76,6 @@
             "match_name": "Namibia vs South Africa",
             "match_id": 137263,
             "startTime": "05:30:00 PM 11-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Toronto Sixers Women vs Vancouver Thunderbirds Women (Canada Women Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Thunderbirds Women",
-            "status": "UPCOMING",
-            "event_name": "Canada Women Super 60, 2025",
-            "match_name": "Toronto Sixers Women vs Vancouver Thunderbirds Women",
-            "match_id": 137460,
-            "startTime": "03:30:00 AM 11-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -148,18 +150,6 @@
             "startTime": "10:45:00 PM 11-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Iraq vs Indonesia (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137266_3740_IRQ_INA_fc-Web.jpg",
-            "team_1": "Iraq",
-            "team_2": "Indonesia",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Iraq vs Indonesia",
-            "match_id": 137266,
-            "startTime": "01:00:00 AM 12-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137431_5719_MGM_TTS_fc-Web.jpg",
@@ -170,6 +160,18 @@
             "match_name": "Mississauga Masters vs Toronto Sixers",
             "match_id": 137431,
             "startTime": "05:30:00 AM 12-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Iraq vs Indonesia (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137266_3740_IRQ_INA_fc-Web.jpg",
+            "team_1": "Iraq",
+            "team_2": "Indonesia",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Iraq vs Indonesia",
+            "match_id": 137266,
+            "startTime": "01:00:00 AM 12-10-2025"
         },
         {
             "event_category": "Football",
@@ -280,18 +282,6 @@
             "startTime": "08:30:00 AM 11-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
-            "team_1": "Day 3",
-            "team_2": "Club de Campo Villa de Madrid",
-            "status": "UPCOMING",
-            "event_name": "Acciona Spanish Open presented by Madrid",
-            "match_name": "Day 3",
-            "match_id": 136861,
-            "startTime": "05:00:00 PM 11-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (National Cricket T10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -302,6 +292,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137308,
             "startTime": "06:30:00 AM 12-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
+            "team_1": "Day 3",
+            "team_2": "Club de Campo Villa de Madrid",
+            "status": "UPCOMING",
+            "event_name": "Acciona Spanish Open presented by Madrid",
+            "match_name": "Day 3",
+            "match_id": 136861,
+            "startTime": "05:00:00 PM 11-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -329,13 +331,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "title": "Oman vs Qatar (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Oman",
+            "team_2": "Qatar",
             "status": "UPCOMING",
             "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Oman vs Qatar",
             "match_id": 137183,
             "startTime": "11:30:00 AM 12-10-2025"
         },
@@ -377,13 +379,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "title": "United Arab Emirates vs Nepal (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "United Arab Emirates",
+            "team_2": "Nepal",
             "status": "UPCOMING",
             "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "United Arab Emirates vs Nepal",
             "match_id": 137184,
             "startTime": "04:00:00 PM 12-10-2025"
         },
@@ -413,13 +415,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "title": "Samoa vs Japan (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Samoa",
+            "team_2": "Japan",
             "status": "UPCOMING",
             "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Samoa vs Japan",
             "match_id": 137185,
             "startTime": "08:30:00 PM 12-10-2025"
         }

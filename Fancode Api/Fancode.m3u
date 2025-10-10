@@ -1,9 +1,12 @@
 #=================================
 # 🔗 Telegram: https://t.me/+d6hR7FdtBNA1NTBl
-# 🕒 Last Updated: 03:00:26 AM 11-10-2025
-# 📺 Channels Count : 0
+# 🕒 Last Updated: 03:31:43 AM 11-10-2025
+# 📺 Channels Count : 1
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png" group-title="Fancode-Cricket", Toronto Sixers Women vs Vancouver Thunderbirds Women (Canada Women Super 60, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/137460_english_hls_f8ef6b436992874ta-di_h264/index.m3u8
+
