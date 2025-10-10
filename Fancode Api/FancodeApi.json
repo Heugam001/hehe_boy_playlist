@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "04:31:21 PM 10-10-2025",
+    "last update time": "05:01:02 PM 10-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Indonesia U23 vs India U23 (International Friendlies)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/U-23_Friendlies_2025_Sporty_match-card_Old_match-card.jpg",
+            "team_1": "Indonesia U23",
+            "team_2": "India U23",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies",
+            "match_name": "Indonesia U23 vs India U23",
+            "match_id": 137619,
+            "startTime": "06:30:00 PM 10-10-2025"
+        },
         {
             "event_category": "Cricket",
             "title": "Japan vs Nepal (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -16,6 +28,20 @@
             "startTime": "04:00:00 PM 10-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/xTh4q2gWT_W6r3Qc898cng/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137181_english_hls_bcd7a76a263337ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Basketball vs District Sports Complex, Coimbatore (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_04.jpg",
+            "team_1": "Basketball",
+            "team_2": "District Sports Complex, Coimbatore",
+            "status": "LIVE",
+            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
+            "match_name": "Basketball",
+            "match_id": 137421,
+            "startTime": "05:00:00 PM 10-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Tl08m3bATzq31Owk-enPDA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137421_english_hls_81497be99823255ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -88,18 +114,6 @@
             "match_name": "Sharjah vs Emirates Blues",
             "match_id": 137486,
             "startTime": "11:00:00 PM 10-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Indonesia U23 vs India U23 (International Friendlies)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/U-23_Friendlies_2025_Sporty_match-card_Old_match-card.jpg",
-            "team_1": "Indonesia U23",
-            "team_2": "India U23",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies",
-            "match_name": "Indonesia U23 vs India U23",
-            "match_id": 137619,
-            "startTime": "06:30:00 PM 10-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -210,6 +224,30 @@
             "startTime": "06:30:00 PM 10-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
+            "match_name": "Afghanistan vs Bangladesh",
+            "match_id": 136882,
+            "startTime": "05:30:00 PM 11-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs South Africa (South Africa tour of Namibia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa--old-match-card_1760067056062.png",
+            "team_1": "Namibia",
+            "team_2": "South Africa",
+            "status": "UPCOMING",
+            "event_name": "South Africa tour of Namibia, 2025",
+            "match_name": "Namibia vs South Africa",
+            "match_id": 137263,
+            "startTime": "05:30:00 PM 11-10-2025"
+        },
+        {
             "event_category": "Football",
             "title": "S\u00e3o Tom\u00e9 e Pr\u00edncipe vs Tunisia (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137533_3741_STP_TUN_FC-Web.jpg",
@@ -268,42 +306,6 @@
             "match_name": "Granada vs Las Palmas",
             "match_id": 137211,
             "startTime": "12:00:00 AM 11-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
-            "match_name": "Afghanistan vs Bangladesh",
-            "match_id": 136882,
-            "startTime": "05:30:00 PM 11-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs South Africa (South Africa tour of Namibia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa--old-match-card_1760067056062.png",
-            "team_1": "Namibia",
-            "team_2": "South Africa",
-            "status": "UPCOMING",
-            "event_name": "South Africa tour of Namibia, 2025",
-            "match_name": "Namibia vs South Africa",
-            "match_id": 137263,
-            "startTime": "05:30:00 PM 11-10-2025"
-        },
-        {
-            "event_category": "Live events",
-            "title": "Basketball vs District Sports Complex, Coimbatore (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_04.jpg",
-            "team_1": "Basketball",
-            "team_2": "District Sports Complex, Coimbatore",
-            "status": "UPCOMING",
-            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
-            "match_name": "Basketball",
-            "match_id": 137421,
-            "startTime": "05:00:00 PM 10-10-2025"
         },
         {
             "event_category": "Golf",
