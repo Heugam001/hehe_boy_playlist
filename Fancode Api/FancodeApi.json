@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "01:01:00 PM 11-10-2025",
+    "last update time": "01:31:11 PM 11-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Toronto Sixers vs Montreal Royal Tigers (Canada Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137430_5719_TTS_MRT_fc-Web.jpg",
-            "team_1": "Toronto Sixers",
-            "team_2": "Montreal Royal Tigers",
-            "status": "LIVE",
-            "event_name": "Canada Super 60, 2025",
-            "match_name": "Toronto Sixers vs Montreal Royal Tigers",
-            "match_id": 137430,
-            "startTime": "11:00:00 AM 11-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GE1JfcGeRkeEqx5XiY7w8A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137430_english_hls_02c18fbd8d69739ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Live events",
             "title": "Basketball vs Tamil Nadu (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
@@ -93,18 +79,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman vs Fujairah (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137488_5722_AJM_FUJ_fc-web.jpg",
-            "team_1": "Ajman",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Ajman vs Fujairah",
-            "match_id": 137488,
-            "startTime": "11:00:00 PM 11-10-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Vancouver Kings vs Brampton Blitz (Canada Super 60, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137433_5719_VCK_BBZ_fc-Web.jpg",
             "team_1": "Vancouver Kings",
@@ -114,6 +88,18 @@
             "match_name": "Vancouver Kings vs Brampton Blitz",
             "match_id": 137433,
             "startTime": "11:00:00 AM 12-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Fujairah (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137488_5722_AJM_FUJ_fc-web.jpg",
+            "team_1": "Ajman",
+            "team_2": "Fujairah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Ajman vs Fujairah",
+            "match_id": 137488,
+            "startTime": "11:00:00 PM 11-10-2025"
         },
         {
             "event_category": "Football",
@@ -224,18 +210,6 @@
             "startTime": "11:30:00 AM 12-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
-            "team_1": "Day 3",
-            "team_2": "Club de Campo Villa de Madrid",
-            "status": "UPCOMING",
-            "event_name": "Acciona Spanish Open presented by Madrid",
-            "match_name": "Day 3",
-            "match_id": 136861,
-            "startTime": "05:00:00 PM 11-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "United Arab Emirates vs Nepal (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -246,6 +220,18 @@
             "match_name": "United Arab Emirates vs Nepal",
             "match_id": 137184,
             "startTime": "04:00:00 PM 12-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
+            "team_1": "Day 3",
+            "team_2": "Club de Campo Villa de Madrid",
+            "status": "UPCOMING",
+            "event_name": "Acciona Spanish Open presented by Madrid",
+            "match_name": "Day 3",
+            "match_id": 136861,
+            "startTime": "05:00:00 PM 11-10-2025"
         },
         {
             "event_category": "Baseball",
