@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "02:06:36 AM 14-10-2025",
+    "last update time": "02:31:13 AM 14-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Vancouver Kings vs Montreal Tigers (Canada Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Web_final_4.png",
+            "team_1": "Vancouver Kings",
+            "team_2": "Montreal Tigers",
+            "status": "LIVE",
+            "event_name": "Canada Super 60, 2025",
+            "match_name": "Vancouver Kings vs Montreal Tigers",
+            "match_id": 137437,
+            "startTime": "02:30:00 AM 14-10-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "Dubai vs Ajman (Emirates D20 Tournament, 2025)",
@@ -18,30 +32,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137492_english_hls_340e1fa09365409ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "C\u00f3rdoba vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137210_5572_CDB_CL_fc-Web.jpg",
-            "team_1": "C\u00f3rdoba",
-            "team_2": "Cultural Leonesa",
+            "event_category": "Baseball",
+            "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137685_CASACARDS_APP.png",
+            "team_1": "Toronto Blue Jays",
+            "team_2": "Seattle Mariners",
             "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00f3rdoba vs Cultural Leonesa",
-            "match_id": 137210,
-            "startTime": "12:00:00 AM 14-10-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vancouver Kings vs Montreal Tigers (Canada Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Web_final_4.png",
-            "team_1": "Vancouver Kings",
-            "team_2": "Montreal Tigers",
-            "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2025",
-            "match_name": "Vancouver Kings vs Montreal Tigers",
-            "match_id": 137437,
-            "startTime": "02:30:00 AM 14-10-2025"
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Toronto Blue Jays vs Seattle Mariners",
+            "match_id": 137685,
+            "startTime": "02:33:00 AM 14-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137685_english_hls_0e2fd6c3d772782ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137685_english_hls_0e2fd6c3d772782ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -260,30 +262,6 @@
             "startTime": "12:30:00 AM 15-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137685_CASACARDS_APP.png",
-            "team_1": "Toronto Blue Jays",
-            "team_2": "Seattle Mariners",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Toronto Blue Jays vs Seattle Mariners",
-            "match_id": 137685,
-            "startTime": "02:33:00 AM 14-10-2025"
-        },
-        {
-            "event_category": "Live events",
-            "title": "Road Cycling vs Chennai (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-            "team_1": "Road Cycling",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
-            "match_name": "Road Cycling",
-            "match_id": 137415,
-            "startTime": "10:00:00 AM 14-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
@@ -306,6 +284,18 @@
             "match_name": "Victoria vs New South Wales",
             "match_id": 134017,
             "startTime": "05:00:00 AM 15-10-2025"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Road Cycling vs Chennai (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+            "team_1": "Road Cycling",
+            "team_2": "Chennai",
+            "status": "UPCOMING",
+            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
+            "match_name": "Road Cycling",
+            "match_id": 137415,
+            "startTime": "10:00:00 AM 14-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -426,6 +416,18 @@
             "match_name": "Olympique Lyonnais Women vs SKN St. Polten Women",
             "match_id": 137462,
             "startTime": "10:15:00 PM 15-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sharjah vs Dubai (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137494_5722_SHA_DUB_fc-web.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Sharjah vs Dubai",
+            "match_id": 137494,
+            "startTime": "11:00:00 PM 15-10-2025"
         }
     ]
 }
