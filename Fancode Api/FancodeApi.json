@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "01:31:14 PM 16-10-2025",
+    "last update time": "02:15:30 PM 16-10-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -16,20 +16,6 @@
             "startTime": "11:00:00 AM 16-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kSrPGiSuTWSC3rYu2vQyDw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136863_english_hls_a64514936849523ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 134019,
-            "startTime": "06:00:00 AM 15-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-MMEtr3OTh6fP7j7FsQgRg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134019_english_hls_da71180f5836386ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -54,6 +40,18 @@
             "match_name": "Victoria vs New South Wales",
             "match_id": 134017,
             "startTime": "05:00:00 AM 15-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs Queensland",
+            "match_id": 134019,
+            "startTime": "06:00:00 AM 15-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -248,18 +246,6 @@
             "startTime": "12:00:00 PM 17-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137739_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Milwaukee Brewers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Milwaukee Brewers",
-            "match_id": 137739,
-            "startTime": "03:38:00 AM 17-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Wellington Wolves vs Stellenbosch Kings (Boland T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -270,6 +256,30 @@
             "match_name": "Wellington Wolves vs Stellenbosch Kings",
             "match_id": 137708,
             "startTime": "09:00:00 PM 17-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Dubai (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137498_5722_EMB_DUB_fc-web.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Emirates Blues vs Dubai",
+            "match_id": 137498,
+            "startTime": "11:00:00 PM 17-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137739_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Milwaukee Brewers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Milwaukee Brewers",
+            "match_id": 137739,
+            "startTime": "03:38:00 AM 17-10-2025"
         },
         {
             "event_category": "Baseball",
@@ -285,15 +295,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Emirates Blues vs Dubai (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137498_5722_EMB_DUB_fc-web.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
+            "title": "Paarl Rocks vs Paarl Rapids (Boland T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Paarl Rocks",
+            "team_2": "Paarl Rapids",
             "status": "UPCOMING",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Emirates Blues vs Dubai",
-            "match_id": 137498,
-            "startTime": "11:00:00 PM 17-10-2025"
+            "event_name": "Boland T10, 2025",
+            "match_name": "Paarl Rocks vs Paarl Rapids",
+            "match_id": 137709,
+            "startTime": "11:30:00 PM 17-10-2025"
         },
         {
             "event_category": "Football",
@@ -318,18 +328,6 @@
             "match_name": "Middlesbrough F.C. vs Ipswich Town F.C.",
             "match_id": 136950,
             "startTime": "12:30:00 AM 18-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Paarl Rocks vs Paarl Rapids (Boland T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Paarl Rocks",
-            "team_2": "Paarl Rapids",
-            "status": "UPCOMING",
-            "event_name": "Boland T10, 2025",
-            "match_name": "Paarl Rocks vs Paarl Rapids",
-            "match_id": 137709,
-            "startTime": "11:30:00 PM 17-10-2025"
         },
         {
             "event_category": "Football",
@@ -392,18 +390,6 @@
             "startTime": "11:45:00 AM 18-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-            "team_1": "Gamba Osaka",
-            "team_2": "Kashiwa Reysol",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Gamba Osaka vs Kashiwa Reysol",
-            "match_id": 137009,
-            "startTime": "10:30:00 AM 18-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -414,6 +400,18 @@
             "match_name": "Bangladesh vs West Indies",
             "match_id": 137700,
             "startTime": "01:00:00 PM 18-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+            "team_1": "Gamba Osaka",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs Kashiwa Reysol",
+            "match_id": 137009,
+            "startTime": "10:30:00 AM 18-10-2025"
         },
         {
             "event_category": "Baseball",
@@ -428,18 +426,6 @@
             "startTime": "03:38:00 AM 18-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Milwaukee Brewers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Milwaukee Brewers",
-            "match_id": 137742,
-            "startTime": "06:08:00 AM 18-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "West Coast Blues vs Northern Raiders (Boland T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -450,6 +436,18 @@
             "match_name": "West Coast Blues vs Northern Raiders",
             "match_id": 137710,
             "startTime": "02:00:00 PM 18-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Milwaukee Brewers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Milwaukee Brewers",
+            "match_id": 137742,
+            "startTime": "06:08:00 AM 18-10-2025"
         },
         {
             "event_category": "Golf",
