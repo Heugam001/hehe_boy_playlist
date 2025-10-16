@@ -1,9 +1,12 @@
 #=================================
 # 🔗 Telegram: https://t.me/+d6hR7FdtBNA1NTBl
-# 🕒 Last Updated: 03:03:59 AM 17-10-2025
-# 📺 Channels Count : 0
+# 🕒 Last Updated: 03:31:05 AM 17-10-2025
+# 📺 Channels Count : 1
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg" group-title="Fancode-MotoGP", Day 1 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)
+https://in-mc-fdlive.fancode.com/mumbai/119244_english_hls_a3e33e3cc163583ta-di_h264/index.m3u8
+
