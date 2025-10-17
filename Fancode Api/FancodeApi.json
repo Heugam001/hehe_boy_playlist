@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "05:00:26 AM 17-10-2025",
+    "last update time": "06:08:33 AM 17-10-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -46,6 +46,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs Queensland",
+            "match_id": 134019,
+            "startTime": "05:30:00 AM 15-10-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Baseball",
             "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/137739_CASACARDS_APP.png",
@@ -60,16 +74,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137739_english_hls_0c59026abc56695ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 134019,
-            "startTime": "05:30:00 AM 15-10-2025"
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Toronto Blue Jays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137740_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Toronto Blue Jays",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Toronto Blue Jays",
+            "match_id": 137740,
+            "startTime": "06:03:00 AM 17-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137740_english_hls_796376681c39412ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137740_english_hls_796376681c39412ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -202,18 +218,6 @@
             "match_name": "FC Andorra vs Granada",
             "match_id": 137213,
             "startTime": "12:00:00 AM 18-10-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Toronto Blue Jays (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137740_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Toronto Blue Jays",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Toronto Blue Jays",
-            "match_id": 137740,
-            "startTime": "06:03:00 AM 17-10-2025"
         },
         {
             "event_category": "Golf",
