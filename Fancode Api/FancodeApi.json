@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+d6hR7FdtBNA1NTBl",
-    "last update time": "02:31:05 AM 18-10-2025",
+    "last update time": "03:01:05 AM 18-10-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Oviedo vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130918_5427_RO_ESL_fc-Web.jpg",
-            "team_1": "Real Oviedo",
-            "team_2": "RCD Espanyol",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Oviedo vs RCD Espanyol",
-            "match_id": 130918,
-            "startTime": "12:30:00 AM 18-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130918_english_hls_ad0191f24157986adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130918_english_hls_ad0191f24157986adfreeta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Formula 1",
             "title": "Sprint Qualifying vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
@@ -215,18 +201,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-            "team_1": "Gamba Osaka",
-            "team_2": "Kashiwa Reysol",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Gamba Osaka vs Kashiwa Reysol",
-            "match_id": 137009,
-            "startTime": "10:30:00 AM 18-10-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Villarreal CF vs Real Betis (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130917_5427_VIL_RB_fc-Web.jpg",
             "team_1": "Villarreal CF",
@@ -236,6 +210,18 @@
             "match_name": "Villarreal CF vs Real Betis",
             "match_id": 130917,
             "startTime": "10:00:00 PM 18-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+            "team_1": "Gamba Osaka",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs Kashiwa Reysol",
+            "match_id": 137009,
+            "startTime": "10:30:00 AM 18-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -250,6 +236,18 @@
             "startTime": "11:00:00 PM 18-10-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136606_5655_ANF_AFF_fc-web.jpg",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Al-Fateh SC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Nassr FC vs Al-Fateh SC",
+            "match_id": 136606,
+            "startTime": "11:30:00 PM 18-10-2025"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Day 2 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
@@ -262,16 +260,16 @@
             "startTime": "03:10:00 AM 18-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136606_5655_ANF_AFF_fc-web.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Al-Fateh SC",
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Toronto Blue Jays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137741_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Toronto Blue Jays",
             "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Nassr FC vs Al-Fateh SC",
-            "match_id": 136606,
-            "startTime": "11:30:00 PM 18-10-2025"
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Toronto Blue Jays",
+            "match_id": 137741,
+            "startTime": "03:38:00 AM 18-10-2025"
         },
         {
             "event_category": "Football",
@@ -296,18 +294,6 @@
             "match_name": "Real Zaragoza vs Cultural Leonesa",
             "match_id": 137214,
             "startTime": "10:00:00 PM 18-10-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Toronto Blue Jays (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137741_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Toronto Blue Jays",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Toronto Blue Jays",
-            "match_id": 137741,
-            "startTime": "03:38:00 AM 18-10-2025"
         },
         {
             "event_category": "Baseball",
@@ -452,6 +438,18 @@
             "match_name": "Elche CF vs Athletic Club",
             "match_id": 130916,
             "startTime": "05:30:00 PM 19-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Sharjah (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137501_5722_AJM_SHA_fc-web.jpg",
+            "team_1": "Ajman",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Ajman vs Sharjah",
+            "match_id": 137501,
+            "startTime": "07:00:00 PM 19-10-2025"
         }
     ]
 }
