@@ -1,10 +1,158 @@
 #=================================
 # 👑 Owner: Heugam001
 # 🔗 Telegram: Your_Telegram_Link_Here
-# 🕒 Last Updated: 05:27:42 PM 18-10-2025 IST
-# 📺 Channels Count : 0
+# 🕒 Last Updated: 05:30:48 PM 18-10-2025 IST
+# 📺 Channels Count : 37
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
+#EXTINF:-1 tvg-id="555" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png",Chintu TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a46e79ba85825859bd81b6d6f1e451b8:816ace41b743231f2eb3fd550a4696cf
+https://jiotvpllive.cdn.jio.com/bpk-tv/Chintu_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="556" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kochu_TV.png",Kochu TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0302f2d727d6513eb9ee9d88b42dab6c:ddefe13383dcb3e287aff9eaf7855390
+https://jiotvpllive.cdn.jio.com/bpk-tv/Kochu_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="557" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c198ef16ac5c5f8891dade7f781773:2be7b4ae3582fc2531dc1c36dd0fe91a
+https://jiotvpllive.cdn.jio.com/bpk-tv/Chutti_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="678" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",Udaya Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e2bcf67277a54bfadc2f021a3b6f816:390ac32b44931c6eb64c81e6615f9711
+https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="684" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89887cc3539757c4802bb3f4b1bed42f:9d02cba14dd041059c40bf3070d7f32e
+https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="709" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png",Adithya TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7d2d1228b275e219c9cdb282038d4c3:d75d95afc4a181803d2188456a052477
+https://jiotvpllive.cdn.jio.com/bpk-tv/Adithya_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="729" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a39a9699a2e354ce9312d2933d8bf83c:4bc2a11372933c408bc27b11d832d836
+https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="733" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png",Udaya Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fad8a9054e3594591e0d66b1fdf63b5:5937bb76b8e4ca9ccc15832644a816b2
+https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_Comedy_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="744" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png",Udaya Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60b098f49c995f8ab01f093833ffa7ea:21fa4199211c7f0f682d8ef6c2198683
+https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_Music_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="747" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png",Surya Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dec22d787845c828b7e7b08c4036cf6:b46904ae1a6fcae716b8e8cdf78de849
+https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Music_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="894" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5
+https://jiotvpllive.cdn.jio.com/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="896" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png",Sun TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="897" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
+https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="898" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Gemini Music HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=548c049108f95c3b81ea4befee5a3aae:5d3e71b422b7cc2f782c87f600e5a5b4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="899" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e166773b30c55dd38872ca4d62104729:b9bc45e3b1e9fa91ad36243588f80c9e
+https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="900" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png",Surya HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7d2d1228b275e219c9cdb282038d4c3:d75d95afc4a181803d2188456a052477
+https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="901" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png",Udaya HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5963c7fcc1ce54938540061b917fbbe2:8510d16d9d340e1cc0bf5ebf6fa547a4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="1662" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png",Surya Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f89e312c5e051f4b0baada7c375662a:34ab95577a62df1b54ba527f0995281e
+https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Comedy_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 tvg-id="1754" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png",Surya Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab921b8ef8d55b6945c3c69209fd6e4:c5141f92f8b9961399078c273aed219f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde&xxx=%7Ccookie=__hdnea__=st=1760785496~exp=1760871896~acl=/*~hmac=9b2a00fc0b70a2a02cd2dad5ca0b1ba09e5b3724bde7bfa9df8cba51b781bfde
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194409" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194409/640x360_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg" group-title="SunNxt"KTV",KTV
+https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194405" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg" group-title="SunNxt"KTV HD",KTV HD
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194398" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" group-title="SunNxt"Surya",Surya
+https://livestream.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194338" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg" group-title="SunNxt"Surya Music",Surya Music
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="193239" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/193239/640x360_TestChannel_193239_e9155a54-81ab-49a1-9b95-0cd81b234dc0.jpg" group-title="SunNxt"Udaya",Udaya
+https://livestream.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194397" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194386/640x360_UdayaMovies_194386_429c7b3b-44a9-4328-8be3-645621c6e167.jpg" group-title="SunNxt"Udaya Movies",Udaya Movies
+https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194401" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194401/640x360_UdayaMusic_194401_c6816391-ea32-4780-bf8f-25cb839cef89.jpg" group-title="SunNxt"Udaya Music",Udaya Music
+https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194400" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" group-title="SunNxt"Udaya Comedy",Udaya Comedy
+https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194396" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="SunNxt"Gemini TV",Gemini TV
+https://livestream.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194384" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg" group-title="SunNxt"Gemini Movies",Gemini Movies
+https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194393" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg" group-title="SunNxt"Gemini Music HD",Gemini Music HD
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt"Gemini Music",Gemini Music
+https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg" group-title="SunNxt"Gemini Comedy",Gemini Comedy
+https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194337" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" group-title="SunNxt"Gemini Life",Gemini Life
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194407" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" group-title="SunNxt"Adithya TV",Adithya TV
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194390" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg" group-title="SunNxt"Chutti TV",Chutti TV
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194348" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg" group-title="SunNxt"Kochu",Kochu
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" group-title="SunNxt"Chintu TV",Chintu TV
+https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
