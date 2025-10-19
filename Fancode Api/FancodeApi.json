@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "11:07:25 AM 19-10-2025",
+    "last update time": "11:31:05 AM 19-10-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
             "team_1": "Day 4",
             "team_2": "Delhi Golf Club, New Delhi",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "DP World India Championship",
             "match_name": "Day 4",
             "match_id": 136866,
-            "startTime": "11:30:00 AM 19-10-2025"
+            "startTime": "11:30:00 AM 19-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/MUov6GNwSAe_oKzqyqfctg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136866_english_hls_c32ff0af0d3961ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -21,11 +23,13 @@
             "src": "https://images.fancode.com/aig/match/v1/137008_CASACARDS_APP.png",
             "team_1": "Shonan Bellmare",
             "team_2": "Kyoto Sanga",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "J League 2025",
             "match_name": "Shonan Bellmare vs Kyoto Sanga",
             "match_id": 137008,
-            "startTime": "11:30:00 AM 19-10-2025"
+            "startTime": "11:30:00 AM 19-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137008_english_hls_c0f101185298796ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137008_english_hls_c0f101185298796ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -185,18 +189,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Australia vs Queensland (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133939_5606_SAU_QUN_fc-web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 133939,
-            "startTime": "06:00:00 AM 20-10-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New Zealand vs England (England tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
             "team_1": "New Zealand",
@@ -206,6 +198,18 @@
             "match_name": "New Zealand vs England",
             "match_id": 137158,
             "startTime": "11:45:00 AM 20-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Queensland (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133939_5606_SAU_QUN_fc-web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "South Australia vs Queensland",
+            "match_id": 133939,
+            "startTime": "06:00:00 AM 20-10-2025"
         },
         {
             "event_category": "Football",
@@ -366,7 +370,7 @@
         {
             "event_category": "Cricket",
             "title": "Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/133994_CASACARDS_APP.png",
             "team_1": "Brisbane Heat Women",
             "team_2": "Melbourne Renegades Women",
             "status": "UPCOMING",
@@ -402,7 +406,7 @@
         {
             "event_category": "Cricket",
             "title": "Adelaide Strikers Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/133996_CASACARDS_APP.png",
             "team_1": "Adelaide Strikers Women",
             "team_2": "Melbourne Stars Women",
             "status": "UPCOMING",
@@ -414,7 +418,7 @@
         {
             "event_category": "Cricket",
             "title": "Sydney Thunder Women vs ACT Meteors (T20 Spring Challenge, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/133995_CASACARDS_APP.png",
             "team_1": "Sydney Thunder Women",
             "team_2": "ACT Meteors",
             "status": "UPCOMING",
