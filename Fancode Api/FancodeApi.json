@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "05:00:26 AM 20-10-2025",
+    "last update time": "06:12:24 AM 20-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,34 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Queensland vs South Australia (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133939_5606_SAU_QUN_fc-web.jpg",
+            "team_1": "Queensland",
+            "team_2": "South Australia",
+            "status": "LIVE",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "Queensland vs South Australia",
+            "match_id": 133939,
+            "startTime": "06:00:00 AM 20-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/34degomXRz24WZscbNGC5Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133939_english_hls_8728a33dbc82448ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137744_CASACARDS_APP.png",
+            "team_1": "Toronto Blue Jays",
+            "team_2": "Seattle Mariners",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Toronto Blue Jays vs Seattle Mariners",
+            "match_id": 137744,
+            "startTime": "05:33:00 AM 20-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137744_english_hls_7389d2f21c81667ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137744_english_hls_7389d2f21c81667ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "New Zealand vs England (England tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
             "team_1": "New Zealand",
@@ -54,18 +82,6 @@
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 137371,
             "startTime": "01:30:00 PM 20-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Queensland (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133939_5606_SAU_QUN_fc-web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 133939,
-            "startTime": "06:00:00 AM 20-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -164,30 +180,6 @@
             "startTime": "12:30:00 AM 21-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137744_CASACARDS_APP.png",
-            "team_1": "Toronto Blue Jays",
-            "team_2": "Seattle Mariners",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Toronto Blue Jays vs Seattle Mariners",
-            "match_id": 137744,
-            "startTime": "05:33:00 AM 20-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00e1diz vs Burgos (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137216_5572_CDZ_BUR_fc-Web.jpg",
-            "team_1": "C\u00e1diz",
-            "team_2": "Burgos",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz vs Burgos",
-            "match_id": 137216,
-            "startTime": "12:00:00 AM 21-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133994_5608_BH-W_MR-W_FC-Web.jpg",
@@ -210,6 +202,18 @@
             "match_name": "Sydney Sixers Women vs Hobart Hurricanes Women",
             "match_id": 133993,
             "startTime": "04:30:00 AM 21-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00e1diz vs Burgos (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137216_5572_CDZ_BUR_fc-Web.jpg",
+            "team_1": "C\u00e1diz",
+            "team_2": "Burgos",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz vs Burgos",
+            "match_id": 137216,
+            "startTime": "12:00:00 AM 21-10-2025"
         },
         {
             "event_category": "Cricket",
