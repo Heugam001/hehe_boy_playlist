@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "02:31:25 AM 22-10-2025",
+    "last update time": "03:31:30 AM 22-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Dubai vs Ajman (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137506_5722_AJM_DUB_fc-web.jpg",
-            "team_1": "Dubai",
-            "team_2": "Ajman",
-            "status": "LIVE",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Dubai vs Ajman",
-            "match_id": 137506,
-            "startTime": "11:00:00 PM 21-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/AEszgAWGTAGG0LIQo0TMCg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137506_english_hls_a1913e3d4928493ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bristol City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136952_5489_BRI_SOU_fc-web.jpg",
-            "team_1": "Bristol City F.C.",
-            "team_2": "Southampton F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Bristol City F.C. vs Southampton F.C.",
-            "match_id": 136952,
-            "startTime": "12:30:00 AM 22-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/mxb1DNHAQqKJeUe5X4Fo6g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136952_english_hls_da991f1dfe47561ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)",
@@ -153,6 +125,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Sheffield Wednesday F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136953_5489_SHFF_MIDD_fc-web.jpg",
+            "team_1": "Sheffield Wednesday F.C.",
+            "team_2": "Middlesbrough F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Sheffield Wednesday F.C. vs Middlesbrough F.C.",
+            "match_id": 136953,
+            "startTime": "12:30:00 AM 23-10-2025"
+        },
+        {
+            "event_category": "Football",
             "title": "FC Goa vs Al-Nassr FC (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC_league_2_Old_Match_card.jpg",
             "team_1": "FC Goa",
@@ -186,18 +170,6 @@
             "match_name": "Andijan vs Khaldiya",
             "match_id": 136107,
             "startTime": "07:15:00 PM 22-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield Wednesday F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136953_5489_SHFF_MIDD_fc-web.jpg",
-            "team_1": "Sheffield Wednesday F.C.",
-            "team_2": "Middlesbrough F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Sheffield Wednesday F.C. vs Middlesbrough F.C.",
-            "match_id": 136953,
-            "startTime": "12:30:00 AM 23-10-2025"
         },
         {
             "event_category": "Football",
@@ -416,6 +388,18 @@
             "startTime": "09:30:00 PM 23-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137510,
+            "startTime": "11:00:00 PM 23-10-2025"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 1 - Main Feed vs Black Desert Resort (Bank of Utah Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
@@ -440,16 +424,28 @@
             "startTime": "06:30:00 PM 23-10-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "event_category": "Football",
+            "title": "Al-Najmah SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136608_5655_ALN_AAS_fc-web.jpg",
+            "team_1": "Al-Najmah SC",
+            "team_2": "Al-Ahli Saudi FC",
             "status": "UPCOMING",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 137510,
-            "startTime": "11:00:00 PM 23-10-2025"
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Najmah SC vs Al-Ahli Saudi FC",
+            "match_id": 136608,
+            "startTime": "11:30:00 PM 23-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Exeter City vs Plymouth Argyle (League One 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/135962_CASACARDS_APP.png",
+            "team_1": "Exeter City",
+            "team_2": "Plymouth Argyle",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Exeter City vs Plymouth Argyle",
+            "match_id": 135962,
+            "startTime": "12:30:00 AM 24-10-2025"
         }
     ]
 }
