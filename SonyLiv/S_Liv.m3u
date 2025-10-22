@@ -9,11 +9,11 @@
 #==================================
 #EXTM3U
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1761114601~acl=/*~id=41928642056165801568803935070038~hmac=49b863837cfd869f6df5ecf3a9813737224038e07a7e923a781d71d2f79a4342
+https://4048404.tech/proxy/proxy.php?url=https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1761114601~acl=/*~id=41928642056165801568803935070038~hmac=49b863837cfd869f6df5ecf3a9813737224038e07a7e923a781d71d2f79a4342
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1761114601~acl=/*~id=41928642056165801568803935070038~hmac=49b863837cfd869f6df5ecf3a9813737224038e07a7e923a781d71d2f79a4342
+https://4048404.tech/proxy/proxy.php?url=https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1761114601~acl=/*~id=41928642056165801568803935070038~hmac=49b863837cfd869f6df5ecf3a9813737224038e07a7e923a781d71d2f79a4342
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1761114601~acl=/*~id=41928642056165801568803935070038~hmac=49b863837cfd869f6df5ecf3a9813737224038e07a7e923a781d71d2f79a4342
+https://4048404.tech/proxy/proxy.php?url=https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1761114601~acl=/*~id=41928642056165801568803935070038~hmac=49b863837cfd869f6df5ecf3a9813737224038e07a7e923a781d71d2f79a4342
 #EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Pal
 https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1761114601~acl=/*~id=41928642056165801568803935070038~hmac=49b863837cfd869f6df5ecf3a9813737224038e07a7e923a781d71d2f79a4342
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Aath
