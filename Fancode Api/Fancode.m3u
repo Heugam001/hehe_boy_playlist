@@ -1,9 +1,12 @@
 #=================================
 # 🔗 Telegram: https://t.me/+8yzkWZ6_LjY4YTc9
-# 🕒 Last Updated: 07:49:05 AM 23-10-2025
-# 📺 Channels Count : 0
+# 🕒 Last Updated: 08:44:46 AM 23-10-2025
+# 📺 Channels Count : 1
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg" group-title="Fancode-Golf", Day 1 vs Jack Nicklaus Golf Club (Genesis Championship)
+https://in-mc-fdlive.fancode.com/mumbai/136867_english_hls_411a53012c16475ta-di_h264/index.m3u8
+
