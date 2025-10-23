@@ -1,7 +1,7 @@
 #=================================
 # 🔗 Telegram: https://t.me/+8yzkWZ6_LjY4YTc9
-# 🕒 Last Updated: 05:46:14 PM 23-10-2025
-# 📺 Channels Count : 6
+# 🕒 Last Updated: 06:34:50 PM 23-10-2025
+# 📺 Channels Count : 4
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
@@ -9,12 +9,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh_2025_Old_match-card.jpg" group-title="Fancode-Cricket", Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/137702_english_hls_a99a194daf68548ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136179_5648_TAM_PHG_fc-Web_1758118382987.jpg" group-title="Fancode-Football", Tampines Rovers FC vs Pohang Steelers (AFC Champions League Two 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136179_english_hls_30a21faeb458475ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136143_5648_WTP_BEI_fc-Web_1758118382736.jpg" group-title="Fancode-Football", Wofoo Tai Po vs Beijing Guoan (AFC Champions League Two 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136143_english_hls_9d740b943f96558ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136168_5648_PER_SEL_fc-Web_1758118383088.jpg" group-title="Fancode-Football", Persib Bandung vs Selangor (AFC Champions League Two 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136168_english_hls_8250d8ff7e25823ta-di_h264/index.m3u8
