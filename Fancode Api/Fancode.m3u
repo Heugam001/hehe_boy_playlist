@@ -1,7 +1,7 @@
 #=================================
 # 🔗 Telegram: https://t.me/+8yzkWZ6_LjY4YTc9
-# 🕒 Last Updated: 03:00:54 AM 02-11-2025
-# 📺 Channels Count : 2
+# 🕒 Last Updated: 03:31:06 AM 02-11-2025
+# 📺 Channels Count : 3
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
@@ -12,4 +12,7 @@ https://in-mc-fdlive.fancode.com/mumbai/130934_english_hls_bb66b3cb3793090_1adfr
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137616_CASACARDS_APP.png" group-title="Fancode-Football", Almería vs Eibar (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/137616_english_hls_5f0e4c294537953_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Breeders-Cup_Old_match-card_2_1761634546519.jpg" group-title="Fancode-Horse Racing", Breeders' Cup Classic vs Del Mar Thoroughbred Club (Breeders' Cup Classic)
+https://in-mc-fdlive.fancode.com/mumbai/137854_english_hls_956c19b07155876_1ta-di_h264/index.m3u8
 
