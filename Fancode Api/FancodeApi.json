@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "04:30:41 PM 02-11-2025",
+    "last update time": "05:00:50 PM 02-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2025)",
+            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "status": "LIVE",
             "event_name": "Afghanistan tour of Zimbabwe, 2025",
-            "match_name": "Zimbabwe vs Afghanistan",
+            "match_name": "Afghanistan vs Zimbabwe",
             "match_id": 137374,
-            "startTime": "05:00:00 PM 02-11-2025"
+            "startTime": "05:00:00 PM 02-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8UZAs1-wSiO0xSS4HVsY4Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137374_english_hls_b4f9bd502a18207_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
