@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "01:00:58 PM 02-11-2025",
+    "last update time": "01:31:10 PM 02-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,6 +28,18 @@
             "startTime": "04:00:00 PM 02-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates vs USA (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_UAE-vs-USA.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "USA",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "United Arab Emirates vs USA",
+            "match_id": 137255,
+            "startTime": "11:00:00 AM 03-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Levante vs RC Celta (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130936_5427_LE_CEV_fc-Web_1761898429843.jpg",
@@ -50,18 +62,6 @@
             "match_name": "Deportivo Alaves vs RCD Espanyol",
             "match_id": 130939,
             "startTime": "08:45:00 PM 02-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates vs USA (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_UAE-vs-USA.jpg",
-            "team_1": "United Arab Emirates",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "United Arab Emirates vs USA",
-            "match_id": 137255,
-            "startTime": "11:00:00 AM 03-11-2025"
         },
         {
             "event_category": "Football",
