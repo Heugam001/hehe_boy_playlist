@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "07:31:14 PM 03-11-2025",
+    "last update time": "08:11:14 PM 03-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "07:15:00 PM 03-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/7TXECoBPRMqeI1DMgh5OQg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136061_english_hls_ddd7e07d1d64498_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Rolex Grand Final supported by The R&A vs Club de Golf Alcanada (Rolex Grand Final supported by The R&A)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Grand-Final_old.jpg",
-            "team_1": "Rolex Grand Final supported by The R&A",
-            "team_2": "Club de Golf Alcanada",
-            "status": "LIVE",
-            "event_name": "Rolex Grand Final supported by The R&A",
-            "match_name": "Rolex Grand Final supported by The R&A",
-            "match_id": 137173,
-            "startTime": "07:25:00 PM 03-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Fp54OkLKSwCji9skXfh9cg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137173_english_hls_85299b1ee197797_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -438,6 +424,18 @@
             "match_name": "Indonesia vs Timor-Leste",
             "match_id": 138012,
             "startTime": "11:30:00 AM 06-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Cong An Ha Noi",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Macarthur vs Cong An Ha Noi",
+            "match_id": 136145,
+            "startTime": "01:15:00 PM 06-11-2025"
         }
     ]
 }
