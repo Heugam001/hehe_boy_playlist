@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "05:04:17 PM 04-11-2025",
+    "last update time": "05:47:08 PM 04-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -51,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136016_5647_BU_SHG_fc-Web.jpg",
             "team_1": "Buriram United",
             "team_2": "Shanghai Port",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Buriram United vs Shanghai Port",
             "match_id": 136016,
-            "startTime": "05:45:00 PM 04-11-2025"
+            "startTime": "05:45:00 PM 04-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Vfc4E8I1QXWucto-gleu7A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136016_english_hls_e4f80845f294008_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -264,7 +266,7 @@
         {
             "event_category": "Cricket",
             "title": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
             "team_1": "Indonesia",
             "team_2": "Myanmar",
             "status": "UPCOMING",
@@ -288,7 +290,7 @@
         {
             "event_category": "Cricket",
             "title": "Indonesia vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138012_5753_INA_TLS_FC-Web.jpg",
             "team_1": "Indonesia",
             "team_2": "Timor-Leste",
             "status": "UPCOMING",
@@ -452,6 +454,18 @@
             "match_name": "Afghanistan vs Nepal",
             "match_id": 137828,
             "startTime": "08:30:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138013_5753_MYN_TLS_FC-Web.jpg",
+            "team_1": "Myanmar",
+            "team_2": "Timor-Leste",
+            "status": "UPCOMING",
+            "event_name": "Rising East Asia Tri-Series, 2025",
+            "match_name": "Myanmar vs Timor-Leste",
+            "match_id": 138013,
+            "startTime": "07:00:00 AM 07-11-2025"
         }
     ]
 }
