@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "03:02:44 AM 06-11-2025",
+    "last update time": "03:31:11 AM 06-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -258,6 +258,18 @@
             "startTime": "01:05:00 PM 07-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "England vs Australia (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "England",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "England vs Australia",
+            "match_id": 137834,
+            "startTime": "02:00:00 PM 07-11-2025"
+        },
+        {
             "event_category": "Horse Racing",
             "title": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
@@ -280,18 +292,6 @@
             "match_name": "Day 1",
             "match_id": 137163,
             "startTime": "12:30:00 PM 06-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Australia (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "England",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "England vs Australia",
-            "match_id": 137834,
-            "startTime": "02:00:00 PM 07-11-2025"
         },
         {
             "event_category": "Golf",
