@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "05:39:39 AM 07-11-2025",
+    "last update time": "05:54:01 AM 07-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -160,6 +160,18 @@
             "startTime": "05:45:00 AM 08-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "India vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137836_5738_IND_KUW_fc-web.png",
+            "team_1": "India",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "India vs Kuwait",
+            "match_id": 137836,
+            "startTime": "06:40:00 AM 08-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
@@ -185,18 +197,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "India vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137836_5738_IND_KUW_fc-web.png",
-            "team_1": "India",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "India vs Kuwait",
-            "match_id": 137836,
-            "startTime": "06:40:00 AM 08-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -206,18 +206,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 137837,
             "startTime": "07:35:00 AM 08-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Mirand\u00e9s",
-            "team_2": "Sporting de Gij\u00f3n",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Mirand\u00e9s vs Sporting de Gij\u00f3n",
-            "match_id": 137824,
-            "startTime": "01:00:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -230,6 +218,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137838,
             "startTime": "08:30:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Mirand\u00e9s",
+            "team_2": "Sporting de Gij\u00f3n",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Mirand\u00e9s vs Sporting de Gij\u00f3n",
+            "match_id": 137824,
+            "startTime": "01:00:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -292,18 +292,6 @@
             "startTime": "12:30:00 PM 07-11-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Aut\u00f3dromo Internacional do Algarve",
-            "status": "UPCOMING",
-            "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
-            "match_name": "Portugal GP",
-            "match_id": 119277,
-            "startTime": "02:30:00 PM 07-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -314,6 +302,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137841,
             "startTime": "11:15:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Aut\u00f3dromo Internacional do Algarve",
+            "status": "UPCOMING",
+            "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
+            "match_name": "Portugal GP",
+            "match_id": 119277,
+            "startTime": "02:30:00 PM 07-11-2025"
         },
         {
             "event_category": "Formula 1",
@@ -376,18 +376,6 @@
             "startTime": "12:30:00 AM 08-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "event_name": "World Wide Technology Championship",
-            "match_name": "Day 2",
-            "match_id": 137974,
-            "startTime": "01:30:00 AM 08-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -398,6 +386,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137843,
             "startTime": "01:05:00 PM 08-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+            "status": "UPCOMING",
+            "event_name": "World Wide Technology Championship",
+            "match_name": "Day 2",
+            "match_id": 137974,
+            "startTime": "01:30:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",
