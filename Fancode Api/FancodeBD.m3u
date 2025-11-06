@@ -1,15 +1,12 @@
 #=================================
 # 🔗 Telegram: https://t.me/+8yzkWZ6_LjY4YTc9
-# 🕒 Last Updated: 04:12:52 AM 07-11-2025
-# 📺 Channels Count : 2
+# 🕒 Last Updated: 04:33:08 AM 07-11-2025
+# 📺 Channels Count : 1
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/135964_CASACARDS_APP.png" group-title="Fancode-Football", Reading vs Stevenage (League One 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/135964_english_hls_3b6081b7be41178_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)
 https://bd-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8
 
