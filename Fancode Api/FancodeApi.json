@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "09:03:11 AM 06-11-2025",
+    "last update time": "09:45:02 AM 06-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -57,18 +57,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Indonesia vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138012_5753_INA_TLS_FC-Web.jpg",
-            "team_1": "Indonesia",
-            "team_2": "Timor-Leste",
-            "status": "UPCOMING",
-            "event_name": "Rising East Asia Tri-Series, 2025",
-            "match_name": "Indonesia vs Timor-Leste",
-            "match_id": 138012,
-            "startTime": "11:30:00 AM 06-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "England vs United Arab Emirates (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web.png",
             "team_1": "England",
@@ -78,6 +66,18 @@
             "match_name": "England vs United Arab Emirates",
             "match_id": 137826,
             "startTime": "06:40:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138012_5753_INA_TLS_FC-Web.jpg",
+            "team_1": "Indonesia",
+            "team_2": "Timor-Leste",
+            "status": "UPCOMING",
+            "event_name": "Rising East Asia Tri-Series, 2025",
+            "match_name": "Indonesia vs Timor-Leste",
+            "match_id": 138012,
+            "startTime": "11:30:00 AM 06-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -114,6 +114,18 @@
             "match_name": "Sri Lanka vs Hong Kong, China",
             "match_id": 137829,
             "startTime": "09:25:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web.png",
+            "team_1": "Australia",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "Australia vs United Arab Emirates",
+            "match_id": 137830,
+            "startTime": "10:20:00 AM 07-11-2025"
         },
         {
             "event_category": "Football",
@@ -189,15 +201,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web.png",
-            "team_1": "Australia",
-            "team_2": "United Arab Emirates",
+            "title": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web.png",
+            "team_1": "South Africa",
+            "team_2": "Afghanistan",
             "status": "UPCOMING",
             "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Australia vs United Arab Emirates",
-            "match_id": 137830,
-            "startTime": "10:20:00 AM 07-11-2025"
+            "match_name": "South Africa vs Afghanistan",
+            "match_id": 137831,
+            "startTime": "11:15:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Mission Hills China",
+            "status": "UPCOMING",
+            "event_name": "Aramco Shenzhen Championship",
+            "match_name": "Day 1",
+            "match_id": 137217,
+            "startTime": "10:30:00 AM 06-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -210,18 +234,6 @@
             "match_name": "Myanmar vs Timor-Leste",
             "match_id": 138013,
             "startTime": "07:00:00 AM 07-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web.png",
-            "team_1": "South Africa",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "South Africa vs Afghanistan",
-            "match_id": 137831,
-            "startTime": "11:15:00 AM 07-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -258,18 +270,6 @@
             "match_name": "England vs Australia",
             "match_id": 137834,
             "startTime": "02:00:00 PM 07-11-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Mission Hills China",
-            "status": "UPCOMING",
-            "event_name": "Aramco Shenzhen Championship",
-            "match_name": "Day 1",
-            "match_id": 137217,
-            "startTime": "10:30:00 AM 06-11-2025"
         },
         {
             "event_category": "Golf",
