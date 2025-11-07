@@ -1,9 +1,12 @@
 #=================================
 # 🔗 Telegram: https://t.me/+8yzkWZ6_LjY4YTc9
-# 🕒 Last Updated: 05:54:01 AM 07-11-2025
-# 📺 Channels Count : 0
+# 🕒 Last Updated: 07:02:37 AM 07-11-2025
+# 📺 Channels Count : 1
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web_1762413988143.png" group-title="Fancode-Cricket", England vs United Arab Emirates (Hong Kong Sixes, 2025)
+https://bd-mc-fdlive.fancode.com/mumbai/137826_english_hls_af5520315343451_1ta-di_h264/index.m3u8
+
