@@ -1,35 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "10:30:57 AM 09-11-2025",
+    "last update time": "11:31:17 AM 09-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Pakistan vs Australia (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Australia-vs-Pakistan-(1).png",
-            "team_1": "Pakistan",
-            "team_2": "Australia",
+            "title": "Sri Lanka vs United Arab Emirates (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-old-match-card_V2.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "United Arab Emirates",
             "status": "LIVE",
             "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Pakistan vs Australia",
-            "match_id": 137849,
-            "startTime": "09:25:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/mkbqRL32Ru-IuWEUBiO-0Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137849_english_hls_b5c91f78e798348_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
-            "team_1": "England",
-            "team_2": "Kuwait",
-            "status": "LIVE",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "England vs Kuwait",
-            "match_id": 137850,
-            "startTime": "10:20:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0CSoP_ACTOisXNfWZEhBMg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137850_english_hls_1a0db4cd6579918_1ta-di_h264/index.m3u8"
+            "match_name": "Sri Lanka vs United Arab Emirates",
+            "match_id": 137851,
+            "startTime": "11:15:00 AM 09-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/R4Pa8WMGQZ-wXhfwBY7dYA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137851_english_hls_c0533a6d5c81966_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -60,16 +46,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137942_english_hls_6591f7195481228_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 137851,
-            "startTime": "11:15:00 AM 09-11-2025"
+            "event_category": "Football",
+            "title": "Gamba Osaka vs Vissel Kobe (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
+            "team_1": "Gamba Osaka",
+            "team_2": "Vissel Kobe",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs Vissel Kobe",
+            "match_id": 137943,
+            "startTime": "11:30:00 AM 09-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -106,18 +94,6 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137691,
             "startTime": "05:45:00 AM 10-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Gamba Osaka vs Vissel Kobe (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
-            "team_1": "Gamba Osaka",
-            "team_2": "Vissel Kobe",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Gamba Osaka vs Vissel Kobe",
-            "match_id": 137943,
-            "startTime": "11:30:00 AM 09-11-2025"
         },
         {
             "event_category": "Football",
@@ -278,7 +254,7 @@
         {
             "event_category": "Motorsports",
             "title": "F1 Kids vs Brazil (F1 Kids)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Default_sporty_Practice_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kids_Brazil_GP_F1_Old_match-card.jpg",
             "team_1": "F1 Kids",
             "team_2": "Brazil",
             "status": "UPCOMING",
@@ -346,6 +322,18 @@
             "match_name": "Western Australia vs Queensland",
             "match_id": 134025,
             "startTime": "08:00:00 AM 11-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138018_5753_INA_TLS_FC-Web.jpg",
+            "team_1": "Indonesia",
+            "team_2": "Timor-Leste",
+            "status": "UPCOMING",
+            "event_name": "Rising East Asia Tri-Series, 2025",
+            "match_name": "Indonesia vs Timor-Leste",
+            "match_id": 138018,
+            "startTime": "11:30:00 AM 11-11-2025"
         }
     ]
 }
