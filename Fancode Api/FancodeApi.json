@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "07:56:42 AM 09-11-2025",
+    "last update time": "09:00:22 AM 09-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs India (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_India-vs-Sri-Lanka-(1).png",
+            "team_1": "Sri Lanka",
+            "team_2": "India",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "Sri Lanka vs India",
+            "match_id": 137848,
+            "startTime": "08:30:00 AM 09-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/fyJ2LMm2QeOm_dh0A-M0Zg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137848_english_hls_ad2ffb8a8370710_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -19,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Afghanistan vs Hong Kong, China (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Hong-Kong-vs-Afghanistan-(1).png",
-            "team_1": "Afghanistan",
-            "team_2": "Hong Kong, China",
-            "status": "LIVE",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Afghanistan vs Hong Kong, China",
-            "match_id": 137847,
-            "startTime": "07:35:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LVRflj3uQWuG6801Ao5UKw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137847_english_hls_0cac05045d10365_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
             "team_1": "Timor-Leste",
@@ -44,18 +44,6 @@
             "startTime": "07:00:00 AM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India vs Sri Lanka (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_India-vs-Sri-Lanka-(1).png",
-            "team_1": "India",
-            "team_2": "Sri Lanka",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "India vs Sri Lanka",
-            "match_id": 137848,
-            "startTime": "08:30:00 AM 09-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -95,13 +83,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "title": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png",
+            "team_1": "Bangladesh",
+            "team_2": "Hong Kong, China",
             "status": "UPCOMING",
             "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Bangladesh vs Hong Kong, China",
             "match_id": 137852,
             "startTime": "12:10:00 PM 09-11-2025"
         },
@@ -344,6 +332,18 @@
             "match_name": "Burgos vs Castell\u00f3n",
             "match_id": 137821,
             "startTime": "01:00:00 AM 11-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cheltenham Town vs Notts County (League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "Cheltenham Town",
+            "team_2": "Notts County",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "Cheltenham Town vs Notts County",
+            "match_id": 137000,
+            "startTime": "01:30:00 AM 11-11-2025"
         }
     ]
 }
