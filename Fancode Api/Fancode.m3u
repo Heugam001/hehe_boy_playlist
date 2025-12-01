@@ -1,9 +1,12 @@
 #=================================
 # 🔗 Telegram: https://t.me/+8yzkWZ6_LjY4YTc9
-# 🕒 Last Updated: 06:21:55 AM 01-12-2025
-# 📺 Channels Count : 0
+# 🕒 Last Updated: 08:30:38 AM 01-12-2025
+# 📺 Channels Count : 1
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138456_5780_MAS_BAH_fc-Web_1764062590005.jpg" group-title="Fancode-Cricket", Malaysia vs Bahrain (Mini SEA Games Men's T20, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138456_english_hls_b385d1b9de85087_1ta-di_h264/index.m3u8
+
