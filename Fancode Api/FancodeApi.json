@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "10:39:30 AM 03-12-2025",
+    "last update time": "11:09:55 AM 03-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "match_id": 137696,
             "startTime": "03:30:00 AM 02-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764754128~acl=/*~id=66471231334051792038754673953431~hmac=b0e295ed0672c509d5b7b3b783cd0d0e4825b683a38194c9c0176bf19bf2e8d9"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764783421~acl=/*~id=81685836825935475497961191738724~hmac=42450af8d4276795805b91cee454b6b78a8baa91e766b4a2a059a816064665ed"
         },
         {
             "event_category": "Cricket",
@@ -164,18 +164,6 @@
             "startTime": "01:30:00 AM 04-12-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Melbourne, Australia (Crown Australian Open 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png",
-            "team_1": "Day 2",
-            "team_2": "Melbourne, Australia",
-            "status": "UPCOMING",
-            "event_name": "Crown Australian Open 2025",
-            "match_name": "Day 2",
-            "match_id": 138614,
-            "startTime": "06:30:00 AM 04-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sudurpaschim Royals vs Chitwan Rhinos (Nepal Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138316_5771_SPR_CWR_FC-Web_1764576119667.jpg",
@@ -186,6 +174,18 @@
             "match_name": "Sudurpaschim Royals vs Chitwan Rhinos",
             "match_id": 138316,
             "startTime": "03:45:00 PM 04-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Melbourne, Australia (Crown Australian Open 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png",
+            "team_1": "Day 2",
+            "team_2": "Melbourne, Australia",
+            "status": "UPCOMING",
+            "event_name": "Crown Australian Open 2025",
+            "match_name": "Day 2",
+            "match_id": 138614,
+            "startTime": "06:30:00 AM 04-12-2025"
         },
         {
             "event_category": "Cricket",
