@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "01:08:11 PM 04-12-2025",
+    "last update time": "01:31:16 PM 04-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "11:30:00 AM 04-12-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138315_english_hls_f04c407d7645939_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138315_english_hls_f04c407d7645939_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia vs Malaysia A (Mini SEA Games Men's T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Malaysia-Vs-Malaysia-A-(2).png",
+            "team_1": "Malaysia",
+            "team_2": "Malaysia A",
+            "status": "LIVE",
+            "event_name": "Mini SEA Games Men's T10, 2025",
+            "match_name": "Malaysia vs Malaysia A",
+            "match_id": 138465,
+            "startTime": "01:30:00 PM 04-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/2rS-6G6rTr6WoqygT_CARA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138465_english_hls_453ed2269458633_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -43,30 +57,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malaysia vs Malaysia A (Mini SEA Games Men's T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Malaysia-Vs-Malaysia-A-(2).png",
-            "team_1": "Malaysia",
-            "team_2": "Malaysia A",
-            "status": "UPCOMING",
-            "event_name": "Mini SEA Games Men's T10, 2025",
-            "match_name": "Malaysia vs Malaysia A",
-            "match_id": 138465,
-            "startTime": "01:30:00 PM 04-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Victoria",
-            "match_id": 134029,
-            "startTime": "05:00:00 AM 04-12-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New South Wales vs Queensland (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134030_5609_NSW_QUN_fc-Web.jpg",
             "team_1": "New South Wales",
@@ -91,6 +81,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Victoria",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Victoria",
+            "match_id": 134029,
+            "startTime": "05:00:00 AM 04-12-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134031_5609_SAU_TAS_fc-Web.jpg",
             "team_1": "South Australia",
@@ -100,18 +102,6 @@
             "match_name": "South Australia vs Tasmania",
             "match_id": 134031,
             "startTime": "05:30:00 AM 05-12-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
-            "team_1": "Day 1",
-            "team_2": "Sun City, South Africa",
-            "status": "UPCOMING",
-            "event_name": "Nedbank Golf Challenge in honour of Gary Player",
-            "match_name": "Day 1",
-            "match_id": 138672,
-            "startTime": "02:30:00 PM 04-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -124,6 +114,18 @@
             "match_name": "Lumbini Lions vs Janakpur Bolts",
             "match_id": 138317,
             "startTime": "03:45:00 PM 05-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
+            "team_1": "Day 1",
+            "team_2": "Sun City, South Africa",
+            "status": "UPCOMING",
+            "event_name": "Nedbank Golf Challenge in honour of Gary Player",
+            "match_name": "Day 1",
+            "match_id": 138672,
+            "startTime": "02:30:00 PM 04-12-2025"
         },
         {
             "event_category": "Golf",
