@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "02:31:12 AM 05-12-2025",
+    "last update time": "03:07:02 AM 05-12-2025",
     "matches": [
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs United States (Skechers World Champions Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png",
-            "team_1": "Day 1",
-            "team_2": "United States",
+            "event_category": "Cricket",
+            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
+            "team_1": "New Zealand",
+            "team_2": "West Indies",
             "status": "LIVE",
-            "event_name": "Skechers World Champions Cup",
-            "match_name": "Day 1",
-            "match_id": 138680,
-            "startTime": "07:00:00 PM 04-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/N3dboL1aTMqLeUOgCNB9Qg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138680_english_hls_3371ea37d299918_1ta-di_h264/index.m3u8"
+            "event_name": "West Indies tour of New Zealand, 2025",
+            "match_name": "New Zealand vs West Indies",
+            "match_id": 137696,
+            "startTime": "03:30:00 AM 02-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764926954~acl=/*~id=43906148371958557398158050451474~hmac=5dce187d38b040a8442095284d71c5c5219d8379990256b6e14972f5e1d64a45"
         },
         {
             "event_category": "Golf",
@@ -30,18 +30,6 @@
             "startTime": "12:00:00 AM 05-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IwBCQIsVQxGiZ-QXWAfwxA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138276_english_hls_eeee0f749c32127_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
-            "team_1": "New Zealand",
-            "team_2": "West Indies",
-            "status": "PAUSED",
-            "event_name": "West Indies tour of New Zealand, 2025",
-            "match_name": "New Zealand vs West Indies",
-            "match_id": 137696,
-            "startTime": "03:30:00 AM 02-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -450,6 +438,18 @@
             "match_name": "Qualifying",
             "match_id": 118499,
             "startTime": "07:30:00 PM 06-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130979_5427_ATH_ATL_fc-Web.jpg",
+            "team_1": "Athletic Club",
+            "team_2": "Atletico de Madrid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs Atletico de Madrid",
+            "match_id": 130979,
+            "startTime": "01:30:00 AM 07-12-2025"
         }
     ]
 }
