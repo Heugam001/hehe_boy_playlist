@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+8yzkWZ6_LjY4YTc9",
-    "last update time": "08:31:02 PM 06-12-2025",
+    "last update time": "09:04:27 PM 06-12-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Villarreal CF vs Getafe CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130974_5427_VIL_GEF_fc-Web.jpg",
-            "team_1": "Villarreal CF",
-            "team_2": "Getafe CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Villarreal CF vs Getafe CF",
-            "match_id": 130974,
-            "startTime": "06:30:00 PM 06-12-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130974_english_hls_c2e76a2f8322730_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130974_english_hls_c2e76a2f8322730_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Bristol City F.C. vs Millwall F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bristol-City-VS-Millwall_old.jpg",
             "team_1": "Bristol City F.C.",
@@ -72,6 +58,20 @@
             "startTime": "08:45:00 PM 06-12-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130978_english_hls_09def18c9647025_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130978_english_hls_09def18c9647025_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Huesca vs Real Valladolid (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/138266_CASACARDS_APP.png",
+            "team_1": "Huesca",
+            "team_2": "Real Valladolid",
+            "status": "LIVE",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Real Valladolid",
+            "match_id": 138266,
+            "startTime": "08:45:00 PM 06-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CmbIIK6GRjmquxnDdiBMVw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138266_english_hls_bc94c4cf6777896_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -102,20 +102,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Derby County Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Derby-County-VS-Leicester-City_old.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "Leicester City F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Derby County Football Club vs Leicester City F.C.",
-            "match_id": 136975,
-            "startTime": "06:00:00 PM 06-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2lrlINaxQtqmLCaPIl7M5g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136975_english_hls_a9eb233ec5601_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sharjah Warriorz vs MI Emirates (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138628_5786_SWR_MIE_FC-Web.jpg",
@@ -126,18 +112,6 @@
             "match_name": "Sharjah Warriorz vs MI Emirates",
             "match_id": 138628,
             "startTime": "03:30:00 PM 07-12-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Huesca vs Real Valladolid (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138266_CASACARDS_APP.png",
-            "team_1": "Huesca",
-            "team_2": "Real Valladolid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Huesca vs Real Valladolid",
-            "match_id": 138266,
-            "startTime": "08:45:00 PM 06-12-2025"
         },
         {
             "event_category": "Football",
@@ -296,6 +270,18 @@
             "startTime": "07:00:00 AM 07-12-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Deportivo de La Coru\u00f1a vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/138267_CASACARDS_APP.png",
+            "team_1": "Deportivo de La Coru\u00f1a",
+            "team_2": "Castell\u00f3n",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo de La Coru\u00f1a vs Castell\u00f3n",
+            "match_id": 138267,
+            "startTime": "11:00:00 PM 07-12-2025"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 4 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
@@ -318,18 +304,6 @@
             "match_name": "Feature Race",
             "match_id": 121615,
             "startTime": "02:45:00 PM 07-12-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo de La Coru\u00f1a vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138267_CASACARDS_APP.png",
-            "team_1": "Deportivo de La Coru\u00f1a",
-            "team_2": "Castell\u00f3n",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo de La Coru\u00f1a vs Castell\u00f3n",
-            "match_id": 138267,
-            "startTime": "11:00:00 PM 07-12-2025"
         },
         {
             "event_category": "Football",
@@ -450,6 +424,18 @@
             "match_name": "Bengaluru Eagles vs Hyderabad Hawks",
             "match_id": 138699,
             "startTime": "09:30:00 AM 09-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chennai Legends vs Delhi Dominators (Ability Sports League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Chennai Legends",
+            "team_2": "Delhi Dominators",
+            "status": "UPCOMING",
+            "event_name": "Ability Sports League 2025",
+            "match_name": "Chennai Legends vs Delhi Dominators",
+            "match_id": 138700,
+            "startTime": "01:30:00 PM 09-12-2025"
         }
     ]
 }
