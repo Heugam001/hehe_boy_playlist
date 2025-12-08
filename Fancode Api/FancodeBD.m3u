@@ -1,9 +1,12 @@
 #=================================
 # 🔗 Telegram: https://t.me/+8yzkWZ6_LjY4YTc9
-# 🕒 Last Updated: 01:11:40 AM 09-12-2025
-# 📺 Channels Count : 0
+# 🕒 Last Updated: 01:28:19 AM 09-12-2025
+# 📺 Channels Count : 1
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 #==================================
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138268_CASACARDS_APP.png" group-title="Fancode-Football", Málaga vs Real Zaragoza (LALIGA Hypermotion 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138268_english_hls_60d78e118216886_1ta-di_h264/index.m3u8
+
